@@ -3,11 +3,11 @@
 
 - 🔭I am currently **pursuing my master's degree at China Agricultural University.**
 
-- 🌱 I’m currently learning **deep learning, Rosetta, Gaussian and many other things.**
+- 🌱 I’m currently learning **deep learning, Rosetta, Gaussian, and many other tools and techniques.**
 
-- 👯My research interests focus on **he applications of deep learning in protein design and genome design.**
+- 👯My research interests focus on **the applications of deep learning in protein design and genome design.**
 
-- 🤝 I aspire for my research to support **the development of innovative solutions in protein and genome engineering**
+- 🤝 I aspire for my research to contribute to **the development of innovative solutions in protein and genome engineering.**
 
 - 📫 How to reach me **magpiecau0@gmail.com**
 
