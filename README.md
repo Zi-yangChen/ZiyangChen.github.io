@@ -15,7 +15,7 @@
 
 ## 📰 NEWS
 
-- **2025.08**: 2025.08: 🚀 Kicking off my GitHub journey — stay tuned for research updates and projects!
+- **2025.08**: 🚀 Kicking off my GitHub journey — stay tuned for research updates and projects!
 
 <!-- 如果将来还有更多新闻，只需要在这里添加类似格式的条目 -->
 <!-- 例如：
