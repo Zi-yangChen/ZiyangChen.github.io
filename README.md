@@ -14,19 +14,16 @@
 ---
 
 ## 📰 NEWS
+- **2025.08**: 🌱 Excited to share [PRIME](https://github.com/Zi-yangChen/PRIME) — a generative language model for plant regulatory elements! Use PRIME for prediction, functional analysis, and de novo design of plant regulatory elements. Dive into innovation with this tool!
 
 - **2025.08**: 🚀 Kicking off my GitHub journey — stay tuned for research updates and projects!
 
-<!-- 如果将来还有更多新闻，只需要在这里添加类似格式的条目 -->
-<!-- 例如：
-- **2025.06**: 🎉 Won the Best Poster Award at the International Conference on AI for Biology.
--->
+
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- 可添加社交链接，例如LinkedIn、Twitter等 -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
