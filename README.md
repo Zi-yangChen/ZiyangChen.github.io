@@ -13,10 +13,21 @@
 
 ---
 
+## ✨ Motto
+> *"The more I learn, the more I realize how much I don't know."*  
+
+---
+
 ## 📰 NEWS
 - **2025.08**: 🌱 Excited to share [PRIME](https://github.com/Zi-yangChen/PRIME) — a generative language model for plant regulatory elements! Use PRIME for prediction, functional analysis, and de novo design of plant regulatory elements. Dive into innovation with this tool!
 
 - **2025.08**: 🚀 Kicking off my GitHub journey — stay tuned for research updates and projects!
+
+---
+
+## 🎮 Outside the Lab
+- 🏃 Running, 🚴 Cycling, 📖 Reading, and exploring **all sorts of fun things**  
+- Currently **waiting (impatiently 😅)** for the release of *Hollow Knight: Silksong* 🦋  
 
 
 
