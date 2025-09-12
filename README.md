@@ -25,11 +25,6 @@
 
 ---
 
-## 🎮 Outside the Lab
-- 🏃 Running, 🚴 Cycling, 📖 Reading, and exploring **all sorts of fun things**  
-- Currently **waiting (impatiently 😅)** for the release of *Hollow Knight: Silksong* 🦋  
-
-
 
 ---
 
