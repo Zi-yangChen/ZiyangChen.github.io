@@ -19,7 +19,9 @@
 ---
 
 ## 📰 NEWS
-- **2025.08**: 🌱 Excited to share [PRIME](https://github.com/Zi-yangChen/PRIME) — a generative language model for plant regulatory elements! Use PRIME for prediction, functional analysis, and de novo design of plant regulatory elements. Dive into innovation with this tool!
+- **2025.12**: 🤖 Released [Paper Agent](https://github.com/Zi-yangChen/paper_agent) — an AI-powered automated researcher! It scrapes, scores, and summarizes daily preprints from arXiv and bioRxiv to help you track cutting-edge progress effortlessly.
+
+- **2025.08**: 🌱 Excited to share [VERD](https://github.com/Zi-yangChen/VERD) — a generative language model for plant regulatory elements! Use PRIME for prediction, functional analysis, and de novo design of plant regulatory elements. Dive into innovation with this tool!
 
 - **2025.08**: 🚀 Kicking off my GitHub journey — stay tuned for research updates and projects!
 
